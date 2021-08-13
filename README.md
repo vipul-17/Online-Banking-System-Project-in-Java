@@ -1,1 +1,1 @@
-# Project
+This is a Project in Java in which the main modules of the project is Payee module, Fund Transfers module, Banks module and Debits module, which performs all the operation in their respective domains. Java Project on internet Banking is secured web application which run inside the JVM. This is a web application project in java, which we can run easily on any of web browser. This system uses a in-built SQLite back-end database so no need to create any database.
